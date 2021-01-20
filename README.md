@@ -1,3 +1,3 @@
 # Nice vimrc configuration
 
-## STOP USING IDE'S 😉
+## STOP USING THEM IDE'S 😉
